@@ -2,7 +2,7 @@
 [![](https://jitpack.io/v/15949746733/PhotoPicker.svg)](https://jitpack.io/#15949746733/PhotoPicker)
 
 
-# [原作者连接](https://github.com/walkermanx/PhotoPicker)
+# [原作者 5Mall 连接 ](https://github.com/walkermanx/PhotoPicker)
 
 #  [PhotoPicker:](https://github.com/walkermanx/PhotoPicker) Android图片选择器 (仿微信图片选择器)
 
