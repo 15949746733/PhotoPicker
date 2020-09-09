@@ -13,6 +13,7 @@ buildscript {
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:4.0.1'
+        classpath 'com.github.dcendents:android-maven-gradle-plugin:2.1' // 生成第三方依赖库需要的支持
     }
 }
 allprojects {
