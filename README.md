@@ -1,4 +1,7 @@
-# [PhotoPicker:](https://github.com/walkermanx/PhotoPicker) Android图片选择器 (仿微信图片选择器)
+# 迁移到AndroidX的 [PhotoPicker:](https://github.com/walkermanx/PhotoPicker) Android图片选择器 (仿微信图片选择器) 原版地址点击就到
+
+
+#  [PhotoPicker:](https://github.com/walkermanx/PhotoPicker) Android图片选择器 (仿微信图片选择器)
 
 [![PhotoPicker](https://img.shields.io/badge/PhotoPicker-1.1.0-brightgreen.svg?style=plastic)](http://walkermanx.github.io)
 [![简书个人页](https://img.shields.io/badge/%E7%AE%80%E4%B9%A6-5Mall-orange.svg?style=plastic&colorA=f2715f&colorB=10b23c)](http://www.jianshu.com/u/b9cbfe0a7f35)
