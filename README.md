@@ -1,5 +1,5 @@
 # 迁移到AndroidX的 [PhotoPicker:](https://github.com/walkermanx/PhotoPicker) Android图片选择器 (仿微信图片选择器) 原版地址点击就到
-
+[![](https://jitpack.io/v/15949746733/PhotoPicker.svg)](https://jitpack.io/#15949746733/PhotoPicker)
 
 #  [PhotoPicker:](https://github.com/walkermanx/PhotoPicker) Android图片选择器 (仿微信图片选择器)
 
