@@ -54,6 +54,9 @@ ps:该项目是在[q805699513](https://github.com/q805699513/PhotoPicker)同学�
 
     implementation 'com.github.walkermanx:PhotoPicker:1.1.0'
 
+    AndroidX支持
+    implementation 'com.github.15949746733:PhotoPicker:1.0'
+
    ```
 
 ## 使用：
